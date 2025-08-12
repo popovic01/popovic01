@@ -2,13 +2,13 @@
 
 🎯 **Passionate Software Developer | Full-Stack Enthusiast | Problem Solver**  
 
-🚀 I'm a Master's student in **Computer Engineering** at the **University of Padua, Italy**, planning to graduate in July, 2025. With **two years of experience** in full-stack development, I specialize in **.NET, Angular, and SQL**, building scalable applications and optimizing database performance.  
+🚀 Passionate and results-driven software developer with **2.5 years of professional experience** in building full-stack web applications using mainly **.NET, Angular, SQL, and Azure**. Skilled in developing scalable, cloud-enabled solutions, integrating third-party APIs, optimizing database performance, collaborating with cross-functional teams, and delivering high-quality software in Agile environments. Seeking to leverage my expertise to contribute to innovative and impactful software projects.
 
 ## 🔧 Tech Stack  
 - **Languages & Frameworks:** C#, .NET, Java, Spring, Kotlin, Node.js, JavaScript, Angular, Vue, HTML, CSS  
 - **Databases:** SQL, PostgreSQL, MongoDB, Firebase  
 - **Cloud & DevOps:** Azure Functions, Docker, Azure DevOps, SonarQube  
-- **Other Tools & Concepts:** Agile, Scrum, Design Patterns, REST API, Software Testing  
+- **Other Tools & Concepts:** Agile, Scrum, Design Patterns, REST API, Software Testing, gRPC, SignalR
 
 ## 🔥 My Projects  
 💻 **[Full-Stack Travel Agent App](https://github.com/popovic01/TravelAgent)** – Angular & .NET-based travel booking system with Stripe integration  
